@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    
+  }
+  
+.logo{
+    width: 150px;
+    height: auto;
+}
+
+.fs-4 h1{
+    margin-left: 15px;
+    font-size: 50px;
+    margin-top: 15px;
+}
+
+.nav-item, .nav-link{
+    color: black;
+}
+
+h4{
+    font-size: 100px;
+}
+
+.nav-pills{
+    margin-top: 35px;
+}
+
+.nav-link{
+    color: black;
+    font-size: 30px;
+}
+
+.container my-5{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.hero_image{
+    display: block;
+    width: 1350px;
+    height: 700px;
+}
+
+.row{
+    background-color: #fff;
+    width: 1260px;
+    height: 450px;
+}
+
+.display-4 {
+    text-align: center;
+}
+
+.lead{
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 35px;
+}
+
+.card{
+    width: 380px;
+    height: 410px;
+    display: inline-block;
+    border-radius: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin-left: 30px;
+    margin-right: 10px;
+    border-color: #0998f8;
+    border-width: 6px;
+    background-color: #ecf1f7;
+}
+
+
+
+.contact_us{
+    background-color: #ecf1f7;
+    margin-top: 65px;
+}
+
+.contact_us .row{
+    background-color: #ecf1f7;;
+}
+
+.col-md-10{
+    background-color: #bb5757;
+}
+
+.col-md-10 .p-4{
+    background-color: #bb5757;
+}
+
+.form-control{
+    font-style: italic;
+}
