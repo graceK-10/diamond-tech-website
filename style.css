@@ -71,7 +71,7 @@ h4{
 
 .card{
     width: 380px;
-    height: 410px;
+    height: 450px;
     display: inline-block;
     border-radius: 10px;
     box-sizing: border-box;
@@ -82,8 +82,6 @@ h4{
     border-width: 6px;
     background-color: #ecf1f7;
 }
-
-
 
 .contact_us{
     background-color: #ecf1f7;
